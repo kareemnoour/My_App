@@ -1,7 +1,7 @@
-// window.onload = function () {
-//     const music = new Audio ("./Sounds/موسيقى توتر عميقة تقشعر لها الأبدان.mp3")
-//     music.play()
-// }
+window.onload = function () {
+    const music = new Audio ("./Sounds/موسيقى توتر عميقة تقشعر لها الأبدان.mp3")
+    music.play()
+}
 const img = document.querySelector("#img");
 console.log(img);
 let imgArray = [1,2,3];
