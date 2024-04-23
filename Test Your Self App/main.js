@@ -1,5 +1,5 @@
 window.onload = function () {
-    const music = new Audio ("./Sounds/موسيقى توتر عميقة تقشعر لها الأبدان.mp3")
+    const music = new Audio ("./Sounds/Music.mp3")
     music.play()
 }
 const img = document.querySelector("#img");
