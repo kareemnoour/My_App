@@ -3,7 +3,7 @@ window.onload = function () {
     music.play()
 }
 const img = document.querySelector("#img");
-console.log(img);
+
 let imgArray = [1,2,3];
 setInterval(() => {
     let index = Math.floor(Math.random() * imgArray.length);
